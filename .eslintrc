@@ -1,0 +1,17 @@
+{
+  "root": true,
+  "parserOptions": {
+    "ecmaVersion": 9,
+    "sourceType": "module",
+    "ecmaFeatures": {}
+  },
+  "globals": {},
+  "env": {
+    "browser": true,
+    "es6": true,
+    "node": true
+  },
+  "rules": {
+    "semi": 2
+  }
+}
